@@ -1,5 +1,9 @@
 # SAVEN STUDIO
 
+<p align="center">
+  <img src="./SAVEN-STUIDO-LOGO-MAIN.png" alt="Saven Studio Logo" width="400">
+</p>
+
 **Branding · Marketing · Content Production · Digital Solutions**
 
 We combine strategy, creativity, and technology to build meaningful brand experiences, from the first idea to the final execution.
