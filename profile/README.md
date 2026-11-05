@@ -1,7 +1,8 @@
 # SAVEN STUDIO
 
 <p align="center">
-  <img src="./SAVEN-STUIDO-LOGO-MAIN.png" alt="Saven Studio Logo" width="400">
+  <!-- <img src="./SAVEN-STUIDO-LOGO-MAIN.png" alt="Saven Studio Logo" width="400"> -->
+  <img src="./SAVEN-STUIDO-LOGO-MAIN-AN.svg" alt="Saven Studio Logo" width="400">
 </p>
 
 **Branding · Marketing · Content Production · Digital Solutions**
